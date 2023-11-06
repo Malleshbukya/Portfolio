@@ -1,0 +1,35 @@
+.bg-con{
+    background-image:url("https://img.freepik.com/free-vector/gradient-wavy-background_23-2149123392.jpg?w=996&t=st=1697807846~exp=1697808446~hmac=510868254f5af51745cd1ee93d3f6f6b17ccf82d6de6ba04ebd1880265f6ddf8");
+    height:100vh;
+    background-size:cover;
+    
+
+    
+}
+.head{
+    color:blue;
+    
+}
+.bg-con2{
+    background-color:orangered;
+    text-align:center;
+}
+}
+.para{
+    color:white;
+    
+}
+.bg-con3{
+    background-color:white;
+}
+.s-pan{
+    color:black;
+    font-weight:bold;
+}
+.para1{
+    padding-left:10px;
+}
+.bg-con4{
+    background-color:green;
+    color:white;
+}
